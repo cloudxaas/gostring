@@ -1,0 +1,2 @@
+# gostring
+Golang String
